@@ -5,9 +5,7 @@ import java.util.Map;
  * 问题描述：
  * Given an array of integers, return indices of the two numbers such that they add up to a specific target.
  * You may assume that each input would have exactly one solution, and you may not use the same element twice.
- *
  * 对题的理解: 让你从给定的数组中找到两个元素的和为指定值的两个索引.
- *
  */
 
 

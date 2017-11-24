@@ -6,7 +6,7 @@
  * Example2: x = -123, return -321
  *
  *
- * Did you notice that the reversed integer might overflow? Assume the input is a 32-bit
+ * Did you notice that the reversed inte ger might overflow? Assume the input is a 32-bit
  * integer, then the reverse of1000000003 overflows. How should you handle such cases?
  *
  * 题意是给你一个整型数，求它的逆序整型数，而且有个小坑点，当它的逆序整型数溢出的话，那么就返回0，
