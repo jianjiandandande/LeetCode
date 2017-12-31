@@ -2,7 +2,6 @@
  * Created by Vincent on 2017/11/26.
  */
 public class RemoveDuplicatesfromSortedArray {
-
     public static void main(String[] args){
 
         RemoveDuplicatesfromSortedArray rdfsa = new RemoveDuplicatesfromSortedArray();
