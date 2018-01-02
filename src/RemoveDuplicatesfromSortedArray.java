@@ -23,13 +23,10 @@ public class RemoveDuplicatesfromSortedArray {
         int len = nums.length;
         if (len <= 1) return len;
         int tail = 1;
-        for (int i = 1; i < len; ++i) {
+        for (int i = 1; i < len; i++) {
             if (nums[i - 1] != nums[i]) {
                 nums[tail++] = nums[i];
             }
-        }
-        for (int  a: nums) {
-            System.out.println(a);
         }
         return tail;
     }
