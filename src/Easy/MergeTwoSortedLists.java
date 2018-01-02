@@ -1,4 +1,4 @@
-import java.util.List;
+package Easy;
 
 /**
  * Created by Vincent on 2017/12/19.

@@ -1,3 +1,5 @@
+package Easy;
+
 /**
  * created by Vincent on 2018/1/2
  *
