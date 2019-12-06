@@ -60,7 +60,7 @@ public class MergeTwoSortedLists {
 
         temp.next = l1 != null ? l1 : l2;
 
-        return temp.next;
+        return head.next;
     }
 
     static class ListNode{
